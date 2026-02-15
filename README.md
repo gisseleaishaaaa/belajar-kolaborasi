@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Halo aku sedang belajar kolaborasi di github!!! Seru sekali
+Halo aku sedang belajar kolaborasi di github!!! <br> Seru sekali
